@@ -17,7 +17,7 @@
 - Web App: Flask
 
 ### Project Motivation
-In this project, I built a machine learning pipeline to categorize emergency messages based on the needs communicated by the sender.
+In this project, I apply skills I learned to build a model for an API that classifies disaster messages.
 ### File Description
 - app
   - template
